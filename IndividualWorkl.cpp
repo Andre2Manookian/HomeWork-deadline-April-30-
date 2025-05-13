@@ -23,7 +23,7 @@ int main() {
     cout << "Enter the length of binary strings: ";
     cin >> N;
 
-    // Start recursion with empty string
+   
     generateBinaryStrings(N, "");
 
     return 0;
